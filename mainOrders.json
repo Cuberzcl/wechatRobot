@@ -1,0 +1,21 @@
+{
+  "自我介绍": { "type": "reply", "val": "米娜桑！我是张天机器人，身份是张天的女朋友！" },
+  "赵丛霖": { "type": "reply", "val": "OWL明星选手，实力超强！" },
+  "杨骐嘉": { "type": "reply", "val": "是我孙子！" },
+  "李一鸣": { "type": "reply", "val": "乐，屑鼠鼠罢了" },
+  "CL简报": { "type": "func", "val": "getNews" },
+  "老婆": {
+    "type": "pic",
+    "val": [
+      "https://s1.ax1x.com/2022/10/02/xKgWPf.png",
+      "https://s1.ax1x.com/2022/10/02/xKgHZn.png",
+      "https://s1.ax1x.com/2022/10/02/xK2zff.png",
+      "https://s1.ax1x.com/2022/10/02/xKRFmj.png",
+      "https://s1.ax1x.com/2022/10/02/xKRVkq.png"
+    ]
+  },
+  "驴": {
+    "type": "pic",
+    "val": ["https://i0.hdslb.com/bfs/article/9366512ff2bfec15a8842787bfcfe15c796e8ed5.jpg"]
+  }
+}
